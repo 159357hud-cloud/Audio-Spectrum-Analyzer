@@ -15,6 +15,5 @@ python main.py
 🔬 Physics & Math
 The project transforms time-domain signals $x_n$ into the frequency domain:
 
-$$
+```math
 X_k = \sum_{n=0}^{N-1} x_n e^{-\frac{i2\pi}{N}kn}
-$$
