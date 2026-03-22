@@ -11,6 +11,7 @@
 ## 🛠️ Installation
 ```bash
 pip install -r requirements.txt
+```
 python main.py
 🔬 Physics & Math
 The project transforms time-domain signals $x_n$ into the frequency domain:
