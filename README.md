@@ -11,12 +11,11 @@
 ## 🛠️ Installation
 ```bash
 pip install -r requirements.txt
-```
 python main.py
+```
 
-🔬 Physics & Math
+## 🔬 Physics & Math
 The project transforms time-domain signals $x_n$ into the frequency domain:
-
 $$
 X_k = \sum_{n=0}^{N-1} x_n e^{-\frac{i2\pi}{N}kn}
 $$
